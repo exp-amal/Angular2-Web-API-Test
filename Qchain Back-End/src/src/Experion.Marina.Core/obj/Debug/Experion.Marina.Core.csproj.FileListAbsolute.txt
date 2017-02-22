@@ -1,0 +1,42 @@
+D:\Marina API Framework\src\src\Experion.Marina.Core\bin\Debug\Experion.Marina.Core.dll
+D:\Marina API Framework\src\src\Experion.Marina.Core\bin\Debug\Experion.Marina.Core.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Core\obj\Debug\Experion.Marina.Core.dll
+D:\Marina API Framework\src\src\Experion.Marina.Core\obj\Debug\Experion.Marina.Core.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Core\bin\Debug\Autofac.dll
+D:\Marina API Framework\src\src\Experion.Marina.Core\bin\Debug\BouncyCastle.Crypto.dll
+D:\Marina API Framework\src\src\Experion.Marina.Core\bin\Debug\MailKit.dll
+D:\Marina API Framework\src\src\Experion.Marina.Core\bin\Debug\MimeKit.dll
+D:\Marina API Framework\src\src\Experion.Marina.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Marina API Framework\src\src\Experion.Marina.Core\bin\Debug\Autofac.xml
+D:\Marina API Framework\src\src\Experion.Marina.Core\bin\Debug\MailKit.xml
+D:\Marina API Framework\src\src\Experion.Marina.Core\bin\Debug\MimeKit.xml
+D:\Marina API Framework\src\src\Experion.Marina.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Marina API Framework\src\src\Experion.Marina.Core\obj\Debug\Experion.Marina.Core.csprojResolveAssemblyReference.cache
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\bin\Debug\Experion.Marina.Core.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\bin\Debug\Experion.Marina.Core.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\bin\Debug\Autofac.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\bin\Debug\BouncyCastle.Crypto.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\bin\Debug\MailKit.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\bin\Debug\MimeKit.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\bin\Debug\Autofac.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\bin\Debug\MailKit.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\bin\Debug\MimeKit.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\obj\Debug\Experion.Marina.Core.csprojResolveAssemblyReference.cache
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\obj\Debug\Experion.Marina.Core.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Core\obj\Debug\Experion.Marina.Core.pdb
+D:\Qchain\src\src\Experion.Marina.Core\bin\Debug\Experion.Marina.Core.dll
+D:\Qchain\src\src\Experion.Marina.Core\bin\Debug\Experion.Marina.Core.pdb
+D:\Qchain\src\src\Experion.Marina.Core\bin\Debug\Autofac.dll
+D:\Qchain\src\src\Experion.Marina.Core\bin\Debug\BouncyCastle.Crypto.dll
+D:\Qchain\src\src\Experion.Marina.Core\bin\Debug\MailKit.dll
+D:\Qchain\src\src\Experion.Marina.Core\bin\Debug\MimeKit.dll
+D:\Qchain\src\src\Experion.Marina.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Qchain\src\src\Experion.Marina.Core\bin\Debug\Autofac.xml
+D:\Qchain\src\src\Experion.Marina.Core\bin\Debug\MailKit.xml
+D:\Qchain\src\src\Experion.Marina.Core\bin\Debug\MimeKit.xml
+D:\Qchain\src\src\Experion.Marina.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Qchain\src\src\Experion.Marina.Core\obj\Debug\Experion.Marina.Core.csprojResolveAssemblyReference.cache
+D:\Qchain\src\src\Experion.Marina.Core\obj\Debug\Experion.Marina.Core.dll
+D:\Qchain\src\src\Experion.Marina.Core\obj\Debug\Experion.Marina.Core.pdb

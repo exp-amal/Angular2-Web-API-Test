@@ -1,0 +1,27 @@
+import { Component} from '@angular/core';
+import{Myquestion}from"../myquestion"
+import{QuestionarrayService} from "../questionarray.service";
+import{ Router,ActivatedRoute} from'@angular/router';
+@Component({
+  selector: 'app-listdetail',
+  templateUrl: './listdetail.component.html',
+  styleUrls: ['./listdetail.component.css']
+})
+export class ListdetailComponent  {
+myQuestionArray:Myquestion[]=[];
+index:number;
+title:string="";
+description:string="";
+  constructor(public questionarray:QuestionarrayService,private router:Router,private activatedRoute:ActivatedRoute){
+
+this.myQuestionArray=this.questionarray.get();
+this.index=activatedRoute.snapshot.params['i'];
+this.title=this.myQuestionArray[this.index].title;
+this.description=this.myQuestionArray[this.index].description;
+}
+questionPush()
+{
+  
+}
+
+}

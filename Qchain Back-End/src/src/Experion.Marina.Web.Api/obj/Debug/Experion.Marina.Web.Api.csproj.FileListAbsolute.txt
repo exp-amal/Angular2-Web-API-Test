@@ -1,0 +1,234 @@
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.exe
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.exe
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\VBCSCompiler.exe
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.dll.config
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Newtonsoft.Json.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Net.Http.Formatting.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.WebHost.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Newtonsoft.Json.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Net.Http.Formatting.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.WebHost.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.csprojResolveAssemblyReference.cache
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.Contracts.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Common.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Core.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Dto.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.IocConfig.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.Contracts.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Common.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Core.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Dto.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.IocConfig.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.exe.config
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.rsp
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\csi.exe
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\csi.rsp
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\System.AppContext.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.exe.config
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.rsp
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Autofac.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Autofac.Integration.WebApi.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Autofac.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Autofac.Integration.WebApi.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\NLog.config
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\NLog.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\DotNetZip.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\MimeKit.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\MailKit.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Services.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\EntityFramework.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\BouncyCastle.Crypto.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Z.EntityFramework.Plus.EF6.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\NLog.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\DotNetZip.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\MimeKit.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\MailKit.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Services.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\EntityFramework.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Contracts.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Contracts.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\EntityFramework.SqlServer.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\EntityFramework.SqlServer.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.exe
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.exe.config
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.rsp
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\csi.exe
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\csi.rsp
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\System.AppContext.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.exe
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.exe.config
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.rsp
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\VBCSCompiler.exe
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\NLog.config
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.dll.config
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.pdb
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Autofac.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Autofac.Integration.WebApi.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\EntityFramework.SqlServer.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.Contracts.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Common.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Core.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Dto.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.IocConfig.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Newtonsoft.Json.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\NLog.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Net.Http.Formatting.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.WebHost.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\DotNetZip.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\MimeKit.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\MailKit.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Services.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Contracts.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\EntityFramework.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\BouncyCastle.Crypto.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Z.EntityFramework.Plus.EF6.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.Contracts.pdb
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Common.pdb
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Core.pdb
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Dto.pdb
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.IocConfig.pdb
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Autofac.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Autofac.Integration.WebApi.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\EntityFramework.SqlServer.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Newtonsoft.Json.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\NLog.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Net.Http.Formatting.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.WebHost.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\DotNetZip.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\MimeKit.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\MailKit.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.pdb
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Services.pdb
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Contracts.pdb
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\EntityFramework.xml
+D:\Qchain\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.csprojResolveAssemblyReference.cache
+D:\Qchain\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.exe
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.exe.config
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.rsp
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\csi.exe
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\csi.rsp
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\System.AppContext.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.exe
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.exe.config
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.rsp
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\VBCSCompiler.exe
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\NLog.config
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.dll.config
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Autofac.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Autofac.Integration.WebApi.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\EntityFramework.SqlServer.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.Contracts.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Common.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Core.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Dto.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.IocConfig.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Newtonsoft.Json.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\NLog.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Net.Http.Formatting.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.WebHost.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\DotNetZip.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\MimeKit.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\MailKit.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Services.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Contracts.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\EntityFramework.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\BouncyCastle.Crypto.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Z.EntityFramework.Plus.EF6.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.Contracts.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Common.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Core.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Dto.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.IocConfig.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Autofac.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Autofac.Integration.WebApi.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\EntityFramework.SqlServer.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Newtonsoft.Json.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\NLog.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Net.Http.Formatting.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.WebHost.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\DotNetZip.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\MimeKit.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\MailKit.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Services.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Contracts.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\bin\EntityFramework.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.csprojResolveAssemblyReference.cache
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.pdb
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Web.Cors.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.Cors.dll
+D:\Qchain\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.Cors.xml

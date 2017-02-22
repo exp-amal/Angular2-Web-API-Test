@@ -1,0 +1,39 @@
+D:\Marina API Framework\src\src\Experion.Marina.Common\bin\Debug\Experion.Marina.Common.dll
+D:\Marina API Framework\src\src\Experion.Marina.Common\bin\Debug\Experion.Marina.Common.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Common\obj\Debug\Experion.Marina.Common.dll
+D:\Marina API Framework\src\src\Experion.Marina.Common\obj\Debug\Experion.Marina.Common.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Common\bin\Debug\Autofac.dll
+D:\Marina API Framework\src\src\Experion.Marina.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Marina API Framework\src\src\Experion.Marina.Common\bin\Debug\NLog.dll
+D:\Marina API Framework\src\src\Experion.Marina.Common\bin\Debug\Autofac.xml
+D:\Marina API Framework\src\src\Experion.Marina.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Marina API Framework\src\src\Experion.Marina.Common\bin\Debug\NLog.xml
+D:\Marina API Framework\src\src\Experion.Marina.Common\bin\Debug\DotNetZip.dll
+D:\Marina API Framework\src\src\Experion.Marina.Common\bin\Debug\DotNetZip.xml
+D:\Marina API Framework\src\src\Experion.Marina.Common\obj\Debug\Experion.Marina.Common.csprojResolveAssemblyReference.cache
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\bin\Debug\Experion.Marina.Common.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\bin\Debug\Experion.Marina.Common.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\bin\Debug\Autofac.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\bin\Debug\DotNetZip.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\bin\Debug\NLog.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\bin\Debug\Autofac.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\bin\Debug\DotNetZip.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\bin\Debug\NLog.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\obj\Debug\Experion.Marina.Common.csprojResolveAssemblyReference.cache
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\obj\Debug\Experion.Marina.Common.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.Common\obj\Debug\Experion.Marina.Common.pdb
+D:\Qchain\src\src\Experion.Marina.Common\bin\Debug\Experion.Marina.Common.dll
+D:\Qchain\src\src\Experion.Marina.Common\bin\Debug\Experion.Marina.Common.pdb
+D:\Qchain\src\src\Experion.Marina.Common\bin\Debug\Autofac.dll
+D:\Qchain\src\src\Experion.Marina.Common\bin\Debug\DotNetZip.dll
+D:\Qchain\src\src\Experion.Marina.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Qchain\src\src\Experion.Marina.Common\bin\Debug\NLog.dll
+D:\Qchain\src\src\Experion.Marina.Common\bin\Debug\Autofac.xml
+D:\Qchain\src\src\Experion.Marina.Common\bin\Debug\DotNetZip.xml
+D:\Qchain\src\src\Experion.Marina.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Qchain\src\src\Experion.Marina.Common\bin\Debug\NLog.xml
+D:\Qchain\src\src\Experion.Marina.Common\obj\Debug\Experion.Marina.Common.csprojResolveAssemblyReference.cache
+D:\Qchain\src\src\Experion.Marina.Common\obj\Debug\Experion.Marina.Common.dll
+D:\Qchain\src\src\Experion.Marina.Common\obj\Debug\Experion.Marina.Common.pdb

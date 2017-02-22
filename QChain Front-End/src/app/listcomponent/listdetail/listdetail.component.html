@@ -1,0 +1,49 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+  crossorigin="anonymous">
+<div class="container">
+  <div class="row">
+    <div class="col-xs-8">
+      <div class="page-header questionheader">
+        <h1><b>{{questiondetails?.Title}}</b> </h1>
+      </div>
+      <h3>{{questiondetails?.Description}}</h3>
+      <div class="row">
+        <div class="col-xs-6">
+          <h5><b>Posted By:</b>{{questiondetails?.Owner}}</h5>
+          <h5><b>Posted On:</b>{{questiondetails?.Date|date:'dd/MM/yyyy @h:mma'}}</h5>
+        </div>
+        <div class="col-xs-6">
+
+        </div>
+      </div>
+<div class="page-header">
+      <h3>{{questiondetails?.AnswerCount}}  Answers found</h3>
+</div>
+      <div class="answers" *ngFor="let i of questiondetails?.Answers">
+        {{i}}
+      </div>
+    </div>
+    <div class="col-xs-4">
+      <div class="page-header">
+        <h3>
+          Submit Your Answer Here!
+        </h3>
+      </div>
+      <form class="form-horizontal" role="form" [formGroup]="myForm" (ngSubmit)="onAnswerSubmit()">
+        <div class="form-group">
+          <div class="col-sm-8">
+            <input type="hidden" formControlName="id" class="form-control" value={{questiondetails?.QuestionId}}>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="comment" class="control-label col-sm-3">Answer</label>
+          <textarea formControlName="Answer" class="form-control" rows="5" id="comment" required></textarea>
+        </div>
+        <div class="col-sm-offset-2 col-sm-8">
+          <button type="submit" class="btn btn-default">Submit Answer</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+</div>

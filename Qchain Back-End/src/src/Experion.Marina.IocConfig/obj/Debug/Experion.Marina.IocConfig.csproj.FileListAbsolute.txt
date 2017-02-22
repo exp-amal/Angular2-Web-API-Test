@@ -1,0 +1,96 @@
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.IocConfig.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.IocConfig.pdb
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\obj\Debug\Experion.Marina.IocConfig.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\obj\Debug\Experion.Marina.IocConfig.pdb
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Business.Services.Contracts.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Business.Services.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Core.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Data.Contracts.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Data.Services.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Business.Services.Contracts.pdb
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Business.Services.pdb
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Core.pdb
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Data.Contracts.pdb
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Data.Services.pdb
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\obj\Debug\Experion.Marina.IocConfig.csprojResolveAssemblyReference.cache
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.IocConfig.dll.config
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Autofac.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\EntityFramework.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\EntityFramework.SqlServer.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Newtonsoft.Json.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Autofac.xml
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\EntityFramework.xml
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\EntityFramework.SqlServer.xml
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Newtonsoft.Json.xml
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\MimeKit.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\MailKit.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\BouncyCastle.Crypto.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\MimeKit.xml
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\MailKit.xml
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Dto.dll
+D:\Marina API Framework\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Dto.pdb
+D:\Qchain\src\src\Experion.Marina.IocConfig\obj\Debug\Experion.Marina.IocConfig.csprojResolveAssemblyReference.cache
+D:\Qchain\src\src\Experion.Marina.IocConfig\obj\Debug\Experion.Marina.IocConfig.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\obj\Debug\Experion.Marina.IocConfig.pdb
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.IocConfig.dll.config
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.IocConfig.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.IocConfig.pdb
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Autofac.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\EntityFramework.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\EntityFramework.SqlServer.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Business.Services.Contracts.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Business.Services.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Core.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Data.Contracts.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Data.Services.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Newtonsoft.Json.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Dto.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\MimeKit.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\MailKit.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\BouncyCastle.Crypto.dll
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Business.Services.Contracts.pdb
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Business.Services.pdb
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Core.pdb
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Data.Contracts.pdb
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Data.Services.pdb
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Autofac.xml
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\EntityFramework.xml
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\EntityFramework.SqlServer.xml
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Newtonsoft.Json.xml
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Dto.pdb
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\MimeKit.xml
+D:\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\MailKit.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.IocConfig.dll.config
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.IocConfig.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.IocConfig.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Autofac.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\EntityFramework.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\EntityFramework.SqlServer.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Business.Services.Contracts.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Business.Services.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Core.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Data.Contracts.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Data.Services.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Newtonsoft.Json.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Dto.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\MimeKit.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\MailKit.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\BouncyCastle.Crypto.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Business.Services.Contracts.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Business.Services.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Core.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Data.Contracts.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Data.Services.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Autofac.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\EntityFramework.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\EntityFramework.SqlServer.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Newtonsoft.Json.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\Experion.Marina.Dto.pdb
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\MimeKit.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\bin\Debug\MailKit.xml
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\obj\Debug\Experion.Marina.IocConfig.csprojResolveAssemblyReference.cache
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\obj\Debug\Experion.Marina.IocConfig.dll
+D:\Angular & Asp Test\Qchain\src\src\Experion.Marina.IocConfig\obj\Debug\Experion.Marina.IocConfig.pdb
